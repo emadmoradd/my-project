@@ -1,5 +1,3 @@
-# My first repository
-
 # How to Create a Repository and Upload It to GitHub
 
 1. **Create a Local Repository**:
